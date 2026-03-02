@@ -24,7 +24,7 @@ def main():
     print("Hello learners!")
     print("Colombian Typical Dishes 🇨🇴")
     
-    result = dish_fetch(1)
+    result = dish_fetch(1) 
     print(result)
 
 if __name__=="__main__":
